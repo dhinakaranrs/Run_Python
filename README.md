@@ -1,2 +1,2 @@
 # Run_Python
-Run Python with ease 
+Shell Script to Run Python with ease; Install GIT 
